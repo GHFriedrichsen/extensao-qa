@@ -1,18 +1,32 @@
-# extensao-qa
+Extensão QA – SIFIT
 
-## Nome: Gabriel Henrique Friedrichsen
-## RA: 14552
+Repositório de documentação de testes manuais aplicados ao SIFIT, sistema web de gestão de academias de um parceiro da UniALFA.
 
-🧪 Testes-Manuais
+Objetivo
+Praticar testes manuais em um sistema real
+Levantar e documentar as funcionalidades do SIFIT
+Validar cada funcionalidade da interface até o banco de dados
+Montar um portfólio técnico de QA
+Estrutura
+SIFIT/
+├── Cenarios de testes/
+├── Evidencias/
+├── 1-Analise de requisitos.md
+├── 2-Plano de testes.md
+├── 3-Relatorio de Bugs.md
+└── 4-Relatorio dos testes.md
+Metodologia
+Técnicas: testes positivos, negativos, exploratórios e funcionais
+Formatos: BDD (Gherkin), tabelas e checklists
+Ferramentas: Chrome, Jam (gravação de evidências), MySQL Workbench, Markdown e GitHub
+Evidências
 
-Repositório dedicado ao estudo, prática e documentação de testes manuais de software, com foco em:
+Prints na pasta SIFIT/Evidencias e vídeos no Google Drive.
 
-Aprendizado de QA Organização de casos de teste Melhoria contínua na análise e cobertura de testes 🎯 Objetivo Este projeto foi criado com o objetivo de:
+Credenciais de acesso ao sistema e ao banco não são publicadas neste repositório.
 
-Consolidar conhecimentos de testes manuais Simular testes em sistemas reais e ambientes públicos Criar um portfólio técnico bem estruturado para futuras oportunidades profissionais 🧱 Estrutura do repositório A estrutura está organizada por pastas, cada uma representando um sistema/teste diferente:
+Autor
 
-📁 OrangeHRM ↳ Casos de Teste, Cenários, Relatórios de Bug e Evidências
+Gabriel Henrique Friedrichsen – Sistemas para Internet, UniALFA Umuarama Disciplina: Extensão – Qualidade de Software | Prof. Adnys Lougan
 
-🧪 Metodologia Técnicas aplicadas: Testes Positivos, Negativos, Exploratório, Funcional Ferramentas: Markdown, GitHub. Formatos: BDD (Gherkin), Tabelas e Checklist Processos: Planejamento de Teste, Execução e Relatório
-
-📌 Status do Projeto ✅ Ativo e em constante evolução 📋 Feedbacks são bem-vindos!
+Modelo de referência: extensao-qa
